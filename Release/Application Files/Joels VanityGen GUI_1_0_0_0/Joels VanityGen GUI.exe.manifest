@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Joels VanityGen GUI.exe" version="1.0.0.0" publicKeyToken="2690361d9b3e5d31" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="C1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Joels VanityGen GUI" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Joels VanityGen GUI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Joels VanityGen GUI.exe" size="1783808">
+      <assemblyIdentity name="Joels VanityGen GUI" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>nEg/FuMl3Kdrg0njT5GC7EKq4WY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="C1.ico" size="562718">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p0x3ZDg1tkmMjExDyds91w7PEwg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Joels VanityGen GUI.exe.config" size="2162">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XruPXBWB5W91vL2P8BXHaoZfCf8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=ANONYMOUS\Admin" issuerKeyHash="78557767945cacd3d4985a4ff9ddeea91d857845" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>e3AEcLXClZhVLH3ANCQry3hM5U0=</DigestValue></Reference></SignedInfo><SignatureValue>vyc8EXVa4RgM9xmgkQtsni1jW+ZjmH+EM9RtjA3e2WjOPeYdH/d2xHukp64RBjwzfdRJf9SyIU11gcu0/8pFR8lhUtPdabbXraCp66Mox6N7MhFdWfhmBXDN9rIR9+jW0/rYK0lJUfmEw+W3bE/91ZCMefJYSCNkkvQQttDHLRM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yVhn1ATc5eO8+L1XnMJQsihllR6JJ3nCQi4PAQDnQ+G/O8oFJlP2SWuo2oaANNhQfD4whV17xDUwyEsx/Sd34JYHTpvAqehVdD7VUHIn1iplt+u4VzQfecMvhi7OZuaLsOeYeSfKj1fQis95HXyaageDV+3I2HkFGS8yVXSWfTU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4de54c78cb2b2434c07d2c559895c2b57004707b" Description="" Url=""><as:assemblyIdentity name="Joels VanityGen GUI.exe" version="1.0.0.0" publicKeyToken="2690361d9b3e5d31" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ANONYMOUS\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>EE5gSFNQn56veRZvzxgrRDiGM5w=</DigestValue></Reference></SignedInfo><SignatureValue>jPaG2gAhEGCICY2ULh4/ZxfEce5e4Knnl98YHeDEKFZf+P2bia2nZa1sY0gf04jDvGm06YzA9NOm6NGD37SWNhELnQDG+u/JvRRtAF8tMYCO0Anguxsbt5dBE5Cr4oFgUIHU9weyhDqc6YkTQu+b5vrv1UbLXkArhV/7VFX75NA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yVhn1ATc5eO8+L1XnMJQsihllR6JJ3nCQi4PAQDnQ+G/O8oFJlP2SWuo2oaANNhQfD4whV17xDUwyEsx/Sd34JYHTpvAqehVdD7VUHIn1iplt+u4VzQfecMvhi7OZuaLsOeYeSfKj1fQis95HXyaageDV+3I2HkFGS8yVXSWfTU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQFIMjU3kWZbJCsWS3oOjWBjANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AQQBOAE8ATgBZAE0ATwBVAFMAXABBAGQAbQBpAG4wHhcNMTUwMTAzMTYzNjE4WhcNMTYwMTAzMjIzNjE4WjApMScwJQYDVQQDHh4AQQBOAE8ATgBZAE0ATwBVAFMAXABBAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMlYZ9QE3OXjvPi9V5zCULIoZZUeiSd5wkIuDwEA50PhvzvKBSZT9klrqNqGgDTYUHw+MIVde8Q1MMhLMf0nd+CWB06bwKnoVXQ+1VByJ9YqZbfruFc0H3nDL4Yuzmbmi7DnmHknyo9X0IrPeR18mmoHg1ftyNh5BRkvMlV0ln01AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAhjK1C/RoxayK8+1F/SVRonrw/F+b64pGdPennjRHsbwvmvvY69yIOqAZOsfkp65z9hVi7mVl/exkDKexNsdb4mEE95T46S1NeVlEdyplsy7v7SkuTK8Uzq0EjW+R9BgGz168zr3V6Q+kig+iTXSTAYged0HzcAxz9oCSXW5YhrE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,29 @@
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.exe
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.pdb
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.xml
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Form1.resources
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Resources.resources
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.vbproj.GenerateResource.Cache
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.exe
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.xml
+C:\Users\joel.whitaker\AppData\Local\Temporary Projects\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.pdb
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.exe
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.xml
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.pdb
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.exe
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.pdb
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.xml
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Form1.resources
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Resources.resources
+C:\Users\joel.whitaker\documents\visual studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Debug\VanityBitCoinWallet.frmConfig.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Debug\VanityBitCoinWallet.exe.config

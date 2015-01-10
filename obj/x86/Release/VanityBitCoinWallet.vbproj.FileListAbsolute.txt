@@ -1,0 +1,23 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.AboutBox1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\bin\Release\Joels VanityGen GUI.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\Joels VanityGen GUI.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\Joels VanityGen GUI.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\Joels VanityGen GUI.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\Joels VanityGen GUI.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\Joels VanityGen GUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\VanityBitCoinWallet\VanityBitCoinWallet\obj\x86\Release\VanityBitCoinWallet.Dialog1.resources
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.exe.config
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.exe.manifest
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.application
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.exe
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.pdb
+C:\Users\Admin\Documents\Release\Joels VanityGen GUI.xml
